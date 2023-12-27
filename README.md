@@ -31,7 +31,6 @@ frec(t):= ao + sum(((a[n]*cos(n*t))+(b[n]*sin(n*t))),n,1,30);
 wxplot2d([frec(t)],  [t,-T/2,T/2], [y,-1.5,1.5]); /* Reconstrucción */
 ```
 
-![Texto alternativo](PreguntasExamen/foto maxima punto 9.PNG)
-![Texto alternativo](PreguntasExamen/foto2 maxima punto 9.PNG)
+![Texto alternativo](https://raw.githubusercontent.com/facumruiz/Sistema-de-Comunicaciones/main/PreguntasExamen/foto2%20maxima%20punto%209.PNG?token=GHSAT0AAAAAACL72J5FSD4N7F54B5MDK7BGZMMLQDQ)
 
 
